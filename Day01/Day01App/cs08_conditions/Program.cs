@@ -19,7 +19,6 @@ namespace cs08_conditions
             {
                 result = "삼십아님";
             }
-
             // 조건 연산자, 삼항연산자
             int b = 40;
             string result2 = b == 40 ? "사십" : "사십 아님";
