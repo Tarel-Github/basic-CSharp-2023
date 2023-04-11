@@ -39,6 +39,9 @@
 
 ## 5일차
 - C# 기본
+	- 인터페이스, 추상클래스
+	- 프로퍼티
+	- 배열, 컬렉션
 
 - Win App
 	- WinForms 디자인 오류시 해결방법
@@ -46,3 +49,15 @@
 
 5일차 윈도우 탐색기 만들기 중
 <img src ="https://github.com/Tarel-Github/basic-CSharp-2023/blob/main/image/winforms02.png?raw=true" width="700">
+
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화 프로그래밍
+	- 예외처리
+	
+- Win App
+	- 탐색기 마무리
+	- DB핸들링
+	- BookRentalShop DB WinForms 앱개발
+	- 실습
