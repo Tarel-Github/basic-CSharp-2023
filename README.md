@@ -73,7 +73,24 @@
 	- 더 공부해야할 내용(LINQ, 리플렉션, dynamic)
 	
 - Win App
+	- DB핸들링
+	- SDI vs MDI
+	
 	- BookRentalShop DB WinForms 앱개발
-	- 실습
-
+	- 실습예제
+	
 <img src ="https://github.com/Tarel-Github/basic-CSharp-2023/blob/main/image/winforms03.png?raw=true" width="700">
+
+## 8일차
+- C# 기본
+	- 파일 다루기
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+
+- Win App	
+	- 메모장 만들기
+	- BookRentalShop DB 사용 WinForms 앱개발
+	- 실습예제
+	
+심플 메모장
+<img src ="https://github.com/Tarel-Github/basic-CSharp-2023/blob/main/image/winforms04.png?raw=true" width="700">	
