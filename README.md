@@ -108,3 +108,6 @@
 	- BookRentalShop 계속
 	
 - 코딩테스트
+
+10일차 책대여점 프로그램
+<img src ="https://github.com/Tarel-Github/basic-CSharp-2023/blob/main/image/winforms05.png?raw=true" width="700">	
